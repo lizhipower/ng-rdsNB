@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     width="1309.61px" height="685.98px" viewBox="0 0 1309.61 685.98" enable-background="new 0 0 1309.61 685.98"
+     xml:space="preserve">
+<g id="GraphHead">
+    <rect onmousedown="Load_Menu(evt,'menu_common')" fill="#040000" width="1309.61" height="691.416"/>
+</g>
+<g id="线路">
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="44.835" y1="50.128" x2="44.996" y2="163.499"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="62.774" y1="48.399" x2="63.315" y2="164.786"/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="186.701,54.162 186.701,91.036 45.727,91.036   "/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="124.467" y1="36.3" x2="164.512" y2="36.3"/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="214.3,55.888 214.3,104.288 63.315,104.669     "/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="241.898" y1="28.809" x2="309.544" y2="28.231"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="242.44" y1="40.908" x2="310.084" y2="40.908"/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="227.829,56.465 227.829,104.865 279.778,104.864    "/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="182.913" y1="130.792" x2="45.727" y2="130.792"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="90.914" y1="171.125" x2="130.961" y2="171.125"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="150.983" y1="187.259" x2="150.983" y2="205.697"/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="70.892,262.162 70.892,273.108 163.43,273.108  "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="48.162,262.738 48.162,284.056 162.888,284.056     "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="163.971,294.428 48.162,294.428 48.162,324.388     "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="71.433,324.388 71.433,303.07 163.43,303.07    "/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="175.874" y1="233.354" x2="175.334" y2="260.146"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="195.358" y1="146.925" x2="195.356" y2="260.146"/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="207.532,261.01 207.805,195.323 281.944,195.324
+        281.944,148.653     "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="298.18,149.806 298.18,210.305 220.793,210.305
+        220.793,261.01  "/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="172.631" y1="352.044" x2="172.631" y2="306.527"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="183.453" y1="306.527" x2="183.453" y2="352.044"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="51.951" y1="399.292" x2="51.409" y2="565.232"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="72.516" y1="399.292" x2="72.516" y2="564.079"/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="357.708,305.951 357.708,413.697 72.784,414.273    "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="373.402,303.07 373.402,425.219 53.301,425.221     "/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="170.735" y1="564.655" x2="170.191" y2="414.502"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="158.561" y1="566.385" x2="159.909" y2="426.376"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="245.958" y1="282.495" x2="345.259" y2="282.903"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="345.259" y1="295.581" x2="246.496" y2="295.581"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="243.522" y1="307.68" x2="243.522" y2="354.927"/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="246.769,300.188 263.544,300.188 263.544,354.35    "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="418.857,47.247 418.858,152.688 362.035,152.688
+        362.035,260.433     "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="390.173,258.705 390.718,169.397 426.977,169.398
+        431.846,169.397 431.846,163.499 431.846,47.823  "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="439.964,188.989 439.964,272.533 428.6,272.533     "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="426.977,287.514 457.823,287.514 457.823,188.989   "/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="389.635" y1="304.798" x2="388.011" y2="565.232"/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="277.074,564.655 277.074,455.182 388.011,455.18    "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="287.898,564.079 287.898,467.857 405.869,467.281   "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="405.87,565.232 405.546,487.823 404.788,307.104    "/>
+    <path fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M463.774,488.024"/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="406.409,488.024 463.774,488.024 463.774,567.537   "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="387.639,536.423 446.998,536.423 446.998,565.807   "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="514.104,300.765 448.621,300.765 446.996,414.273   "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="515.186,307.104 458.903,307.104 458.904,413.698   "/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="514.644" y1="293.852" x2="426.977" y2="293.852"/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="460.254,363.568 518.973,363.568 518.973,430.982   "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="447.538,379.414 503.278,379.123 503.278,430.406   "/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="541.162" y1="305.375" x2="541.162" y2="565.233"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="548.737" y1="566.385" x2="548.737" y2="305.951"/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="574.171,309.985 574.171,368.755 619.088,368.755   "/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="623.417" y1="432.134" x2="623.417" y2="492.634"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="633.157" y1="432.712" x2="633.157" y2="493.786"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="706.754" y1="447.692" x2="633.428" y2="447.692"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="706.754" y1="456.334" x2="623.417" y2="456.334"/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="586.619,562.927 586.619,514.529 615.839,514.527   "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="614.217,528.932 601.229,528.932 601.769,561.775   "/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="682.946" y1="535.271" x2="682.946" y2="564.079"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="667.793" y1="536.423" x2="667.793" y2="566.961"/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="697.012,530.66 749.778,530.664 748.967,566.385    "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="758.165,565.232 758.165,522.02 697.555,522.02     "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="697.014,501.852 779.813,501.852 780.354,302.493   "/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="668.334" y1="371.06" x2="779.811" y2="371.058"/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="790.094,301.917 790.094,512.221 697.555,512.223   "/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="664.545" y1="281.177" x2="744.094" y2="281.177"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="706.211" y1="215.493" x2="706.215" y2="280.6"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="717.575" y1="216.644" x2="718.12" y2="290.971"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="664.545" y1="290.394" x2="743.553" y2="290.97"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="537.373" y1="48.976" x2="537.373" y2="260.433"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="759.79" y1="49.552" x2="759.79" y2="258.705"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="575.252" y1="143.469" x2="620.712" y2="143.469"/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="670.499,141.164 751.131,141.163 751.131,258.128   "/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="767.907" y1="50.128" x2="767.364" y2="259.857"/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="860.446,88.731 782.52,88.731 782.518,260.313  "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="790.094,261.01 790.094,99.104 859.901,99.104  "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="805.786,259.857 805.247,158.45 952.444,158.45     "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="952.444,167.023 812.823,165.94 812.823,261.01     "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="862.61,209.729 826.352,209.729 825.811,261.586    "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="860.985,218.373 844.209,218.373 844.209,432.712   "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="799.293,302.493 799.293,324.389 844.208,325.83    "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="845.016,345.131 873.973,345.131 873.973,306.528   "/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="884.797" y1="299.612" x2="884.797" y2="432.424"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="912.393" y1="324.966" x2="884.797" y2="324.966"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="899.409" y1="298.459" x2="898.594" y2="432.712"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="911.852" y1="387.193" x2="883.985" y2="386.615"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="912.395" y1="339.37" x2="899.409" y2="339.024"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="911.311" y1="399.868" x2="899.409" y2="399.868"/>
+    <path fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M834.196,478.23"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="835.553" y1="477.077" x2="835.553" y2="565.807"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="842.045" y1="477.077" x2="841.151" y2="564.656"/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="857.198,477.077 857.198,531.236 897.243,531.236
+        897.245,566.383     "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="906.985,568.114 906.985,520.866 866.94,520.866
+        866.393,478.23  "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="896.704,475.349 896.704,503.58 980.043,503.58
+        980.043,564.081     "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="990.325,565.807 990.325,496.092 904.28,496.092
+        904.821,476.501     "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="902.657,464.978 1029.829,464.978 1029.829,565.234     "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="905.903,442.506 1027.663,442.506 1027.665,299.614     "/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="1050.393" y1="301.341" x2="1050.393" y2="565.808"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="1101.262" y1="352.045" x2="1101.258" y2="392.378"/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="1089.358,352.621 1089.358,377.974 1101.258,377.974    "/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="1111.543" y1="350.894" x2="1111.543" y2="393.53"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="1113.167" y1="435.017" x2="1113.167" y2="564.655"/>
+    <path fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M1128.319,434.44"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="1128.59" y1="564.655" x2="1128.319" y2="434.44"/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="1162.956,434.44 1161.872,500.125 1224.104,499.547
+        1224.104,564.081    "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="1230.6,563.503 1230.6,490.329 1167.823,490.329
+        1167.823,433.863    "/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="1175.944" y1="430.982" x2="1257.657" y2="430.982"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="1257.116" y1="422.339" x2="1175.403" y2="422.339"/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="1176.485,414.85 1204.624,414.85 1204.624,350.893  "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="1192.719,352.045 1192.719,406.207 1176.485,406.207    "/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="1029.829" y1="50.705" x2="1029.829" y2="256.399"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="1021.711" y1="258.128" x2="1021.711" y2="178.614"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="1036.323" y1="50.705" x2="1036.862" y2="255.823"/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="1067.438,133.329 1067.54,178.769 1067.709,256.976     "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="1067.54,178.769 1129.399,179.191 1128.319,63.957
+        1197.047,63.957     "/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="1102.887" y1="50.705" x2="1102.885" y2="179.768"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="1079.614" y1="133.329" x2="1079.614" y2="178.851"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="1254.952" y1="273.108" x2="1078.534" y2="272.533"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="1079.077" y1="288.09" x2="1255.493" y2="288.089"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="1135.897" y1="214.339" x2="1135.897" y2="271.956"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="1157.542" y1="110.627" x2="1128.59" y2="111.202"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="1215.989" y1="141.741" x2="1129.047" y2="141.739"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="1235.471" y1="83.547" x2="1235.471" y2="129.641"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="1207.598" y1="104.168" x2="1234.928" y2="103.137"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="1151.59" y1="215.491" x2="1151.59" y2="287.513"/>
+    <line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="547.654" y1="49.552" x2="547.654" y2="261.01"/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="730.567,38.605 574.171,38.605 574.171,231.625
+        574.171,258.128     "/>
+    <polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="574.171,231.625 691.602,231.625 691.057,445.676   "/>
+</g>
+<g id="紫色电网_1_">
+    <g id="紫色电网">
+
+            <rect id="舟山电网" x="953.606" y="143.623" fill="#B5B5B6" stroke="#000000" stroke-miterlimit="10" width="71.434" height="35.145"/>
+    </g>
+</g>
+<g id="紫色电网文字">
+    <rect x="947.147" y="151.646" fill="none" width="84.883" height="20.587"/>
+
+        <text transform="matrix(1 0 0 1 953.5874 167.4863)" fill="#7E318E" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="18">舟山电网</text>
+</g>
+<g id="红色电厂_1_">
+    <g id="红色电厂">
+
+            <rect id="光大电厂" x="1044.422" y="58.712" fill="#FFF100" stroke="#000000" stroke-miterlimit="10" width="29.25" height="14.406"/>
+    </g>
+</g>
+<g id="红色电厂文字">
+    <rect x="1042.743" y="61.655" fill="none" width="32.543" height="7.485"/>
+    <text transform="matrix(1 0 0 1 1045.0132 67.8154)" fill="#E60012" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="7">光大电厂</text>
+</g>
+<g id="绿色变电站_1_">
+    <g id="绿色变电站">
+
+            <rect id="淞浦变" x="6.761" y="165.363" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="79.011" height="48.4"/>
+
+            <rect id="咸祥变" x="1200.211" y="40.332" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="77.926" height="39.181"/>
+
+            <rect id="洪塘变" x="27.597" y="354.639" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="78.467" height="43.789"/>
+    </g>
+</g>
+<g id="绿色变电站文字">
+    <rect x="9.199" y="177.516" fill="none" width="80.088" height="23.046"/>
+    <text transform="matrix(1 0 0 1 22.2437 193.3564)" fill="#009944" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="18">淞浦变</text>
+    <rect x="27.6" y="364.503" fill="none" width="78.467" height="25.078"/>
+    <text transform="matrix(1 0 0 1 39.8335 380.3428)" fill="#009944" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="18">洪塘变</text>
+    <rect x="1200.295" y="48.484" fill="none" width="77.926" height="26.37"/>
+
+        <text transform="matrix(1 0 0 1 1212.2583 64.3242)" fill="#009944" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="18">咸祥变</text>
+</g>
+<g id="灰底红色变电站_1_">
+    <g id="灰底红色变电站">
+
+            <rect id="宝基变" x="20.563" y="22.472" fill="#B5B5B6" stroke="#000000" stroke-miterlimit="10" width="45.999" height="24.775"/>
+
+            <rect id="龙山变" x="77.113" y="22.184" fill="#B5B5B6" stroke="#000000" stroke-miterlimit="10" width="45.999" height="24.775"/>
+
+            <rect id="灵峰变" x="310.354" y="20.455" fill="#B5B5B6" stroke="#000000" stroke-miterlimit="10" width="54.119" height="27.656"/>
+
+            <rect id="炼化变" x="400.459" y="22.625" fill="#B5B5B6" stroke="#000000" stroke-miterlimit="10" width="45.999" height="24.775"/>
+
+            <rect id="石化变" x="429.221" y="163.499" fill="#B5B5B6" stroke="#000000" stroke-miterlimit="10" width="45.999" height="24.775"/>
+
+            <rect id="范市变" x="131.5" y="160.602" fill="#B5B5B6" stroke="#000000" stroke-miterlimit="10" width="45.999" height="24.775"/>
+
+            <rect id="禾元变" x="240.543" y="356.214" fill="#B5B5B6" stroke="#000000" stroke-miterlimit="10" width="45.999" height="24.774"/>
+
+            <rect id="金鸡变" x="622.686" y="135.539" fill="#B5B5B6" stroke="#000000" stroke-miterlimit="10" width="46" height="24.775"/>
+
+            <rect id="逸盛变" x="731.377" y="23.625" fill="#B5B5B6" stroke="#000000" stroke-miterlimit="10" width="45.998" height="24.775"/>
+
+            <rect id="科元变" x="692.686" y="190.14" fill="#B5B5B6" stroke="#000000" stroke-miterlimit="10" width="46" height="24.775"/>
+
+            <rect id="竹湾变" x="998.981" y="24.048" fill="#B5B5B6" stroke="#000000" stroke-miterlimit="10" width="45.998" height="24.775"/>
+
+            <rect id="宝甬变" x="1126.155" y="189.277" fill="#B5B5B6" stroke="#000000" stroke-miterlimit="10" width="46" height="24.775"/>
+
+            <rect id="华光变" x="1256.491" y="267.619" fill="#B5B5B6" stroke="#000000" stroke-miterlimit="10" width="46" height="24.775"/>
+
+            <rect id="北仑变" x="913.208" y="316.899" fill="#B5B5B6" stroke="#000000" stroke-miterlimit="10" width="46" height="24.771"/>
+
+            <rect id="东港变" x="1086.463" y="325.966" fill="#B5B5B6" stroke="#000000" stroke-miterlimit="10" width="45.998" height="24.775"/>
+
+            <rect id="三菱变" x="1258.739" y="421.475" fill="#B5B5B6" stroke="#000000" stroke-miterlimit="10" width="46" height="24.775"/>
+
+            <rect id="海油变" x="1100.721" y="565.809" fill="#B5B5B6" stroke="#000000" stroke-miterlimit="10" width="45.998" height="24.774"/>
+
+            <rect id="海越变" x="653.099" y="568.537" fill="#B5B5B6" stroke="#000000" stroke-miterlimit="10" width="46" height="24.775"/>
+
+            <rect id="常洪变" x="445.644" y="568.689" fill="#B5B5B6" stroke="#000000" stroke-miterlimit="10" width="45.999" height="24.771"/>
+
+            <rect id="孔浦变" x="369.341" y="567.537" fill="#B5B5B6" stroke="#000000" stroke-miterlimit="10" width="45.999" height="24.775"/>
+
+            <rect id="玛瑙变" x="264.542" y="567.537" fill="#B5B5B6" stroke="#000000" stroke-miterlimit="10" width="45.999" height="24.775"/>
+
+            <rect id="科茂电厂" x="281.133" y="88.733" fill="#B5B5B6" stroke="#000000" stroke-miterlimit="10" width="51.951" height="27.656"/>
+
+            <rect id="穿山风电" x="1078.534" y="24.048" fill="#B5B5B6" stroke="#000000" stroke-miterlimit="10" width="46" height="24.775"/>
+
+            <rect id="万华热电" x="1174.86" y="324.966" fill="#B5B5B6" stroke="#000000" stroke-miterlimit="10" width="46" height="24.775"/>
+
+            <rect id="镇洋化工" x="38.963" y="237.386" fill="#B5B5B6" stroke="#000000" stroke-miterlimit="10" width="45.999" height="24.777"/>
+
+            <rect id="久丰热电" x="36.798" y="326.695" fill="#B5B5B6" stroke="#000000" stroke-miterlimit="10" width="46" height="24.771"/>
+    </g>
+</g>
+<g id="灰底红色变电站文字">
+    <rect x="20.563" y="26.472" fill="none" width="45.999" height="18.436"/>
+    <text transform="matrix(1 0 0 1 22.5625 38.792)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">龙山变</text>
+    <rect x="75.761" y="25.167" fill="none" width="47.624" height="15.846"/>
+    <text transform="matrix(1 0 0 1 78.5728 37.4873)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">宝基变</text>
+    <rect x="310.626" y="27.319" fill="none" width="53.575" height="13.373"/>
+    <text transform="matrix(1 0 0 1 316.4136 39.6387)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">灵峰变</text>
+    <rect x="401.305" y="27.472" fill="none" width="45.455" height="16.401"/>
+    <text transform="matrix(1 0 0 1 403.0327 39.792)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">炼化变</text>
+    <rect x="279.944" y="92.731" fill="none" width="58.172" height="18.083"/>
+
+        <text transform="matrix(1 0 0 1 281.0298 105.0508)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">科茂电厂</text>
+    <rect x="132.042" y="164.753" fill="none" width="48.536" height="16.168"/>
+
+        <text transform="matrix(1 0 0 1 135.3101 177.0732)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">范市变</text>
+    <rect x="34.422" y="242.385" fill="none" width="57.871" height="15.214"/>
+    <text transform="matrix(1 0 0 1 39.3569 252.9443)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="12">镇洋化工</text>
+    <rect x="429.972" y="170.497" fill="none" width="44.625" height="11.667"/>
+
+        <text transform="matrix(1 0 0 1 434.2847 181.0566)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="12">石化变</text>
+    <rect x="624.305" y="142.497" fill="none" width="42" height="12.667"/>
+
+        <text transform="matrix(1 0 0 1 627.3052 153.0566)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="12">金鸡变</text>
+    <rect x="267.972" y="574.489" fill="none" width="39.667" height="12.334"/>
+
+        <text transform="matrix(1 0 0 1 269.8052 585.0488)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="12">玛瑙变</text>
+    <rect x="375.305" y="573.823" fill="none" width="40.307" height="13.666"/>
+
+        <text transform="matrix(1 0 0 1 377.4585 584.3828)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="12">孔浦变</text>
+    <rect x="449.305" y="575.156" fill="none" width="39.667" height="13.333"/>
+
+        <text transform="matrix(1 0 0 1 451.1387 585.7168)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="12">常洪变</text>
+    <rect x="657.971" y="572.489" fill="none" width="36.668" height="12.333"/>
+
+        <text transform="matrix(1 0 0 1 658.3052 583.0488)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="12">海越变</text>
+    <rect x="1105.305" y="572.828" fill="none" width="39.666" height="13"/>
+
+        <text transform="matrix(1 0 0 1 1107.1392 583.3887)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="12">海油变</text>
+    <rect x="1262.305" y="428.156" fill="none" width="40.434" height="11"/>
+
+        <text transform="matrix(1 0 0 1 1264.522 438.7168)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="12">三菱变</text>
+    <rect x="917.305" y="323.822" fill="none" width="39.334" height="12.667"/>
+
+        <text transform="matrix(1 0 0 1 918.9731 334.3818)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="12">北仑变</text>
+    <rect x="1091.305" y="332.155" fill="none" width="38" height="12.667"/>
+
+        <text transform="matrix(1 0 0 1 1092.3062 342.7148)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="12">东港变</text>
+    <rect x="1174.86" y="330.822" fill="none" width="48.445" height="14.333"/>
+
+        <text transform="matrix(1 0 0 1 1175.0825 341.3818)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="12">万华热电</text>
+    <rect x="1260.639" y="274.489" fill="none" width="40.332" height="13.333"/>
+
+        <text transform="matrix(1 0 0 1 1262.8052 285.0488)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="12">华光变</text>
+    <rect x="1128.305" y="195.162" fill="none" width="42.932" height="14.333"/>
+
+        <text transform="matrix(1 0 0 1 1131.772 205.7227)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="12">宝甬变</text>
+    <rect x="1003.305" y="30.167" fill="none" width="40" height="13.333"/>
+
+        <text transform="matrix(1 0 0 1 1005.3062 40.7266)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="12">竹湾变</text>
+    <rect x="1076.032" y="30.167" fill="none" width="52.295" height="13"/>
+
+        <text transform="matrix(1 0 0 1 1078.1782 40.7266)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="12">穿山风电</text>
+    <rect x="697.471" y="197.324" fill="none" width="39" height="13.667"/>
+
+        <text transform="matrix(1 0 0 1 698.9722 207.8838)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="12">科元变</text>
+    <rect x="737.305" y="29.699" fill="none" width="36.824" height="12.583"/>
+    <text transform="matrix(1 0 0 1 737.7173 40.2588)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="12">逸盛变</text>
+    <rect x="34.805" y="333.24" fill="none" width="49.75" height="13.25"/>
+    <text transform="matrix(1 0 0 1 35.6802 343.8008)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="12">久丰热电</text>
+    <rect x="243.555" y="360.99" fill="none" width="41" height="15.25"/>
+
+        <text transform="matrix(1 0 0 1 246.0552 371.5508)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="12">禾元变</text>
+</g>
+<g id="蓝底蓝色变电站_1_">
+    <g id="蓝底蓝色变电站">
+
+            <rect id="湾塘变" x="345.798" y="260.146" fill="#00A0E9" stroke="#000000" stroke-miterlimit="10" width="81.176" height="43.212"/>
+
+            <rect id="蛟川变" x="514.913" y="260.313" fill="#00A0E9" stroke="#000000" stroke-miterlimit="10" width="76.304" height="44.365"/>
+
+            <rect id="邬隘变" x="618.274" y="495.515" fill="#00A0E9" stroke="#000000" stroke-miterlimit="10" width="77.929" height="39.184"/>
+
+            <rect id="沙湾变" x="826.758" y="433.728" fill="#00A0E9" stroke="#000000" stroke-miterlimit="10" width="75.492" height="40.908"/>
+    </g>
+</g>
+<g id="蓝底蓝色变电站文字">
+    <rect x="351.851" y="267.854" fill="none" width="69.125" height="28.182"/>
+
+        <text transform="matrix(1 0 0 1 365.4131 280.1738)" fill="#192489" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">湾塘变</text>
+    <rect x="520.578" y="266.945" fill="none" width="63.636" height="29.091"/>
+    <text transform="matrix(1 0 0 1 531.396 279.2646)" fill="#192489" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">蛟川变</text>
+    <rect x="624.214" y="499.672" fill="none" width="66.365" height="27.272"/>
+    <text transform="matrix(1 0 0 1 636.396 511.9922)" fill="#192489" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">邬隘变</text>
+    <rect x="834.213" y="439.672" fill="none" width="60.91" height="24.546"/>
+
+        <text transform="matrix(1 0 0 1 843.6685 451.9922)" fill="#192489" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">沙湾变</text>
+</g>
+<g id="紫底红色变电站">
+    <g id="紫底红色变电站_1_">
+
+            <rect id="青峙变" x="617.919" y="275.703" fill="#7E318E" stroke="#000000" stroke-miterlimit="10" width="46" height="24.771"/>
+
+            <rect id="长山新" x="619.628" y="352.621" fill="#7E318E" stroke="#000000" stroke-miterlimit="10" width="46.541" height="25.929"/>
+
+            <rect id="新模变" x="601.229" y="399.868" fill="#7E318E" stroke="#000000" stroke-miterlimit="10" width="49.783" height="30.538"/>
+
+            <rect id="黄梅变" x="708.379" y="439.049" fill="#7E318E" stroke="#000000" stroke-miterlimit="10" width="47.08" height="27.082"/>
+
+            <rect id="高塘变" x="863.694" y="201.663" fill="#7E318E" stroke="#000000" stroke-miterlimit="10" width="45.998" height="24.774"/>
+
+            <rect id="凤洋变" x="864.235" y="273.108" fill="#7E318E" stroke="#000000" stroke-miterlimit="10" width="46" height="24.775"/>
+
+            <rect id="甬稅变" x="912.665" y="377.108" fill="#7E318E" stroke="#000000" stroke-miterlimit="10" width="46" height="24.772"/>
+
+            <rect id="徐洋变" x="573.9" y="566.961" fill="#7E318E" stroke="#000000" stroke-miterlimit="10" width="48.705" height="28.232"/>
+
+            <rect id="白石变" x="731.108" y="566.961" fill="#7E318E" stroke="#000000" stroke-miterlimit="10" width="46" height="24.774"/>
+
+            <rect id="小山变" x="807.954" y="565.809" fill="#7E318E" stroke="#000000" stroke-miterlimit="10" width="48.703" height="27.079"/>
+
+            <rect id="明珠变" x="883.713" y="568.689" fill="#7E318E" stroke="#000000" stroke-miterlimit="10" width="48.164" height="26.504"/>
+
+            <rect id="烟墩变" x="953.524" y="565.232" fill="#7E318E" stroke="#000000" stroke-miterlimit="10" width="48.703" height="28.229"/>
+
+            <rect id="庙河变" x="1018.735" y="566.098" fill="#7E318E" stroke="#000000" stroke-miterlimit="10" width="47.078" height="26.503"/>
+
+            <rect id="大矸变" x="861.526" y="76.48" fill="#7E318E" stroke="#000000" stroke-miterlimit="10" width="47.625" height="26.503"/>
+
+            <rect id="郭巨变" x="1051.204" y="104.29" fill="#7E318E" stroke="#000000" stroke-miterlimit="10" width="48.164" height="27.656"/>
+
+            <rect id="七姓变" x="1159.434" y="98.333" fill="#7E318E" stroke="#000000" stroke-miterlimit="10" width="47.896" height="26.167"/>
+
+            <rect id="干岙变" x="1217.667" y="129.64" fill="#7E318E" stroke="#000000" stroke-miterlimit="10" width="47.568" height="26.504"/>
+
+            <rect id="尖峰变" x="1210.846" y="564.655" fill="#7E318E" stroke="#000000" stroke-miterlimit="10" width="46.811" height="25.928"/>
+    </g>
+</g>
+<g id="紫底红色变电站文字">
+    <rect x="577.972" y="572.157" fill="none" width="43.822" height="16"/>
+
+        <text transform="matrix(1 0 0 1 578.8828 584.4775)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">徐洋变</text>
+    <rect x="732.637" y="572.49" fill="none" width="45.176" height="16.667"/>
+
+        <text transform="matrix(1 0 0 1 734.2251 584.8105)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">白石变</text>
+    <rect x="709.971" y="444.823" fill="none" width="46.334" height="14.667"/>
+
+        <text transform="matrix(1 0 0 1 712.1392 457.1436)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">黄梅变</text>
+    <rect x="605.639" y="408.823" fill="none" width="43.754" height="17"/>
+
+        <text transform="matrix(1 0 0 1 606.5156 421.1436)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">新模变</text>
+    <rect x="622.972" y="358.822" fill="none" width="44.818" height="18"/>
+
+        <text transform="matrix(1 0 0 1 624.3804 371.1426)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">长山新</text>
+    <rect x="620.305" y="282.491" fill="none" width="44.782" height="16.333"/>
+
+        <text transform="matrix(1 0 0 1 621.6958 294.8115)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">青峙变</text>
+    <rect x="810.971" y="571.823" fill="none" width="44.602" height="16.334"/>
+    <text transform="matrix(1 0 0 1 812.272 584.1436)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">小山变</text>
+    <rect x="885.305" y="573.823" fill="none" width="44.408" height="16.334"/>
+
+        <text transform="matrix(1 0 0 1 886.5093 586.1436)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">明珠变</text>
+    <rect x="954.606" y="572.49" fill="none" width="45.998" height="15.667"/>
+    <text transform="matrix(1 0 0 1 956.605 584.8105)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">烟墩变</text>
+    <rect x="1021.305" y="572.157" fill="none" width="44.24" height="16.333"/>
+
+        <text transform="matrix(1 0 0 1 1022.4253 584.4775)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">庙河变</text>
+    <rect x="912.936" y="382.156" fill="none" width="46" height="18"/>
+    <text transform="matrix(1 0 0 1 914.936 394.4766)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">甬稅变</text>
+    <rect x="866.639" y="279.158" fill="none" width="44.672" height="15"/>
+
+        <text transform="matrix(1 0 0 1 867.9751 291.4775)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">凤洋变</text>
+    <rect x="863.694" y="206.495" fill="none" width="45.998" height="18.667"/>
+
+        <text transform="matrix(1 0 0 1 865.6929 218.8154)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">高塘变</text>
+    <rect x="863.639" y="82.501" fill="none" width="44.428" height="17"/>
+    <text transform="matrix(1 0 0 1 864.853 94.8213)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">大矸新</text>
+    <rect x="1054.971" y="110.501" fill="none" width="44.666" height="16"/>
+
+        <text transform="matrix(1 0 0 1 1056.3052 122.8213)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">郭巨变</text>
+    <rect x="1213.43" y="571.615" fill="none" width="43.25" height="15.5"/>
+
+        <text transform="matrix(1 0 0 1 1214.0552 583.9355)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">尖峰变</text>
+    <rect x="1161.971" y="105.324" fill="none" width="44.277" height="14.5"/>
+
+        <text transform="matrix(1 0 0 1 1163.1099 117.6436)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">七姓变</text>
+    <rect x="1219.971" y="135.49" fill="none" width="43.334" height="14.833"/>
+
+        <text transform="matrix(1 0 0 1 1220.6392 147.8105)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">千岙变</text>
+</g>
+<g id="绿底红色变电站_1_">
+    <g id="绿底红色变电站">
+
+            <rect id="龙湖变" x="184.181" y="119.693" fill="#009944" stroke="#000000" stroke-miterlimit="10" width="48.164" height="26.503"/>
+
+            <rect id="蟹浦变" x="266.98" y="121.422" fill="#009944" stroke="#000000" stroke-miterlimit="10" width="48.164" height="26.502"/>
+
+            <rect id="宝山变" x="513.125" y="21.761" fill="#009944" stroke="#000000" stroke-miterlimit="10" width="48.164" height="26.502"/>
+
+            <rect id="广源变" x="132.583" y="206.849" fill="#009944" stroke="#000000" stroke-miterlimit="10" width="48.164" height="26.502"/>
+
+            <rect id="前方变" x="428.138" y="415.139" fill="#009944" stroke="#000000" stroke-miterlimit="10" width="48.164" height="26.502"/>
+
+            <rect id="田野变" x="481.092" y="432.424" fill="#009944" stroke="#000000" stroke-miterlimit="10" width="48.164" height="26.502"/>
+
+            <rect id="静德变" x="517.89" y="567.098" fill="#009944" stroke="#000000" stroke-miterlimit="10" width="48.164" height="26.502"/>
+
+            <rect id="骆驼变" x="37.881" y="566.674" fill="#009944" stroke="#000000" stroke-miterlimit="10" width="48.164" height="26.503"/>
+
+            <rect id="团桥变" x="146.653" y="565.945" fill="#009944" stroke="#000000" stroke-miterlimit="10" width="48.164" height="26.502"/>
+
+            <rect id="南洪变" x="152.062" y="352.912" fill="#009944" stroke="#000000" stroke-miterlimit="10" width="48.164" height="26.502"/>
+    </g>
+</g>
+<g id="绿底红色变电站文字">
+    <rect x="484.805" y="439.49" fill="none" width="46.5" height="14.5"/>
+
+        <text transform="matrix(1 0 0 1 487.0552 451.8105)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">田野变</text>
+    <rect x="431.305" y="423.49" fill="none" width="43.833" height="14.5"/>
+
+        <text transform="matrix(1 0 0 1 432.2222 435.8105)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">前方变</text>
+    <rect x="151.524" y="358.99" fill="none" width="47.623" height="16.5"/>
+
+        <text transform="matrix(1 0 0 1 154.3354 371.3105)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">南洪变</text>
+    <rect x="133.666" y="212.49" fill="none" width="46" height="16.5"/>
+    <text transform="matrix(1 0 0 1 135.666 224.8105)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">广源变</text>
+    <rect x="185.078" y="125.49" fill="none" width="45.999" height="17.5"/>
+
+        <text transform="matrix(1 0 0 1 187.0776 137.8105)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">蟹浦变</text>
+    <rect x="267.334" y="129.49" fill="none" width="45.998" height="14.5"/>
+    <text transform="matrix(1 0 0 1 269.333 141.8105)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">龙湖变</text>
+    <rect x="517.305" y="28.49" fill="none" width="42.793" height="16.5"/>
+    <text transform="matrix(1 0 0 1 517.7017 40.8105)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">宝山变</text>
+    <rect x="40.305" y="572.824" fill="none" width="43.333" height="16.333"/>
+    <text transform="matrix(1 0 0 1 40.9722 585.1445)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">骆驼变</text>
+    <rect x="149.639" y="570.491" fill="none" width="44.096" height="17"/>
+    <text transform="matrix(1 0 0 1 150.687 582.8115)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">团桥变</text>
+    <rect x="521.139" y="572.99" fill="none" width="43.833" height="15.333"/>
+
+        <text transform="matrix(1 0 0 1 522.0552 585.3105)" fill="#E50011" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="14">静德变</text>
+</g>
+<g id="绿底蓝色变电站_1_">
+    <g id="绿底蓝色变电站">
+
+            <rect id="殿跟变" x="164.242" y="261.602" fill="#009944" stroke="#000000" stroke-miterlimit="10" width="81.716" height="43.789"/>
+
+            <rect id="芦江变" x="998.577" y="258.774" fill="#009944" stroke="#000000" stroke-miterlimit="10" width="79.822" height="39.196"/>
+
+            <rect id="冷岙变" x="1094.711" y="393.836" fill="#009944" stroke="#000000" stroke-miterlimit="10" width="77.656" height="38.604"/>
+
+            <rect id="江南变" x="747.885" y="261.586" fill="#009944" stroke="#000000" stroke-miterlimit="10" width="77.926" height="39.179"/>
+
+            <rect id="达蓬变" x="165.053" y="8.778" fill="#009944" stroke="#000000" stroke-miterlimit="10" width="75.682" height="45.384"/>
+    </g>
+</g>
+<g id="绿底蓝色变电站文字">
+    <rect x="170.578" y="15.126" fill="none" width="69.698" height="22.727"/>
+    <text transform="matrix(1 0 0 1 178.4268 30.9668)" fill="#003F98" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="18">达蓬变</text>
+    <rect x="168.105" y="267.434" fill="none" width="71.818" height="28.636"/>
+
+        <text transform="matrix(1 0 0 1 177.0146 283.2734)" fill="#003F98" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="18">殿跟变</text>
+    <rect x="754.213" y="261.586" fill="none" width="67.273" height="32.631"/>
+
+        <text transform="matrix(1 0 0 1 760.8501 277.4258)" fill="#003F98" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="18">江南变</text>
+    <rect x="1004.213" y="262.399" fill="none" width="67.273" height="26.363"/>
+
+        <text transform="matrix(1 0 0 1 1010.8501 278.2393)" fill="#003F98" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="18">芦江变</text>
+    <rect x="1100.579" y="397.854" fill="none" width="66.363" height="24.547"/>
+
+        <text transform="matrix(1 0 0 1 1106.7593 413.6934)" fill="#003F98" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="18">冷岙变</text>
+</g>
+<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="1061.972" y1="73.118" x2="1061.972" y2="104.29"/>
+</svg>
