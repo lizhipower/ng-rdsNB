@@ -7,120 +7,106 @@
     <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css">
     <link rel="stylesheet" href="bower_components/ng-blockUI/css/blockui.css"/>
 
+    <link rel="stylesheet" href="resouces/css/index.css"/>
+
+
     <script src="bower_components/angular/angular.js"></script>
     <script src="bower_components/angular-route/angular-route.js"></script>
 
     <script src="bower_components/jquery/dist/jquery.js"></script>
     <script src="bower_components/blockui/jquery.blockUI.js" type="text/javascript"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="bower_components/bootstrap3-typehead/bootstrap3-typeahead.js"></script>
 
-    <script src="js/controllers.js"></script>
-    <script src="js/app.js"></script>
-    <script src="js/diretives.js"></script>
+    <script src="resouces/js/controllers.js"></script>
+    <script src="resouces/js/app.js"></script>
+    <script src="resouces/js/diretives.js"></script>
 
 
-    <script src="js/autoheight.js"></script>
-    <script src="js/svg.js"></script>
-    <script src="js/svg-animate.js"></script>
+    <script src="resouces/js/autoheight.js"></script>
+    <script src="resouces/js/svg.js"></script>
+    <script src="resouces/js/svg-animate.js"></script>
+    <script src="resouces/js/jqueryBasedFun.js"></script>
+
+
 
     <!--<script src="js/svgautosize.js"></script>-->
 
     <!--<script src="js/svg.js"></script>-->
 
 
-    <style>
-        /*html,body {*/
-            /*margin: 0px;*/
-            /*height: 100%;*/
-        /*}*/
-        body {
-            padding:0;
-            margin:0;
-            height:100%;
-            overflow: hidden;
 
-
-        }
-
-        div#header {
-            height: 100px;
-            background-color: #00b3ee;
-        }
-
-        svg {
-            cursor: move;
-        }
-
-        g#hotzone {
-            cursor: pointer;
-        }
-
-        div.row {
-            background-color: blanchedalmond;
-            height: 100%;
-            border: solid red;
-        }
-
-
-        div#sidebar {
-            border: solid #ffff00;
-        }
-
-        div#mainbody {
-            background-color: #000000;
-            border: solid #ffff00;
-        }
-        div#footer {
-            height: 40px;
-            background-color: #00b3ee;
-        }
-
-
-        #box {
-            width: 600px;
-            margin: 0 auto;
-            background: #fff;
-            border: 1px solid #ccc;
-            padding: 20px;
-            display: none;
-            -webkit-border-radius: 10px;
-            -moz-border-radius: 10px;
-            display: none;
-        }
-
-    </style>
 
 </head>
 <body >
     <!--<div class="container-fluid">-->
         <div id="header">
-                TODO: this is header
+            <div id="logoLeftSide"><img src="resouces/css/imgs/logoLeftSide.png" alt="middle"></div>
+            <div id="logoRightSide"><img src="resouces/css/imgs/logoRightSide.png" alt="middle"></div>
         </div>
         <div class="row">
             <!--sidebar-->
             <div class="col-md-2" id="sidebar" ng-controller="sidebarCtrl">
-                <ul>
-                    <li ng-repeat="name in names">
-                        <a href="#/view/{{name.id}}">{{name.id}}</a>
-                    </li>
-                </ul>
+                <div id="sidebarList">
+                   <div class="menu list-group">
+                        <a class="list-group-item {{mainName.class}} {{mainName.status}}"
+                           id="{{mainName.id}}"
+                           ng-repeat="mainName in mainUsageNames"
+                           href="#/view/{{mainName.id}}"
+                                > {{mainName.name}}</a>
+                    </div>
+
+                    <div class="menu list-group">
+                        <a class="list-group-item {{configName.class}} {{configName.status}}"
+                           id="{{configName.id}}"
+                           ng-repeat="configName in configUsageNames"
+                           href="#/view/{{configName.id}}"
+                           > {{configName.name}}</a>
+                    </div>
+
+                    <div id="searchBar" class="list-group">
+                        <!--<a class="list-group-item">aaa</a>-->
+                        <!--<input class="list-group-item" type="text" placeholder="如:xx变"/>-->
+                        <form class="form-inline">
+                            <div class="form-group">
+                                <input type="text" class="form-control" id="search" data-provide="typeahead" data-items="4" />
+                            </div>
+                            <!--<button type="submit" class="btn btn-default">Confirm identity</button>-->
+                            <button id="searchBtn" class="btn btn-primary btn-sm ">Search</button>
+                        </form>
+
+
+
+                    </div>
+                </div>
+
+
             </div>
 
             <!--main-->
             <div class="col-md-10" id="mainbody">
-                <div class="view-container">
+                <div id="view-container">
                     <div ng-view class="view-frame"></div>
                 </div>
             </div>
         </div>
 
         <div id="footer">
-            TODO: this is footer
+            <p>版权所有 ©ChuangXin Lab 2015</p>
         </div>
     <!--</div>-->
 
     <div id="box">
         <h3>Mission</h3>
     </div>
+
+    <script>
+
+
+
+
+
+    </script>
 
 </body>
 </html>

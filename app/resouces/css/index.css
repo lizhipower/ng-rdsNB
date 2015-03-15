@@ -1,0 +1,85 @@
+
+body {
+    padding:0;
+    margin:0;
+    height:100%;
+    overflow: hidden;
+
+
+}
+
+div#header {
+    height: 100px;
+    /*background-color: #00b3ee;*/
+    background-image: url("imgs/logoBackground.jpg");
+    /*background-size: 100%;*/
+}
+
+div#logoLeftSide {
+    height: 100%;
+    float: left;
+}
+
+div#logoRightSide {
+    height: 100%;
+    position: absolute;
+    right: 0px;
+    float: right;
+}
+
+svg {
+    cursor: move;
+}
+
+g#hotzone {
+    cursor: pointer;
+}
+
+div.row {
+    background-color: #c0c0c0;
+    height: 100%;
+    /*border: solid red;*/
+}
+
+
+div#sidebar {
+    /*border: solid #ffff00;*/
+    padding: 0px;
+    background-color: #285e8e;
+}
+
+div#sidebarList {
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+}
+div#mainbody {
+    background-color: #c0c0c0;
+    padding: 0px;
+    /*border: solid #ffff00;*/
+}
+div#footer {
+    height: 20px;
+    background-color: #f3f3f3;
+    color: #000000;
+}
+div#footer > p {
+    margin-left: 5px;
+}
+
+#box {
+    width: 600px;
+    margin: 0 auto;
+    background: #fff;
+    border: 1px solid #ccc;
+    padding: 20px;
+    display: none;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    display: none;
+}
+
+#searchBar {
+    display: none;
+}
