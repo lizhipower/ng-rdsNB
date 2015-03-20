@@ -24,7 +24,6 @@ testApp.config(['$routeProvider',
             }).
             when('/view/svgdetail/:svgid',{
                 templateUrl: './partials/svgdetail.html',
-
                 controller: 'svgdetailCtrl'
             }).
             otherwise({
@@ -32,10 +31,4 @@ testApp.config(['$routeProvider',
             })
     }]);
 
-
-//testApp.config(['$locationProvider',
-//    function ($locationProvider) {
-//        $locationProvider.
-//            html5Mode(false);
-//    }]);
 

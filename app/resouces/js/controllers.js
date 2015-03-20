@@ -47,20 +47,83 @@ testappControllers.controller(
 );
 
 
-
-
-
 testappControllers.controller(
-    'test',function($scope) {
+    'svgdetailCtrl',function($scope, $routeParams) {
 
-        //$scope.title = 'svgdetailCtrl.html';
-        $scope.svgid =  'zhenhai';
-        //alert($scope.svgid)
+        $scope.title = 'svgdetailCtrl.html';
+        $scope.svgid =  $routeParams.svgid;
+        $scope.svgid = './resouces/svg/'+$scope.svgid + '.svg';
 
-        $scope.contentUrl= function() {
-            //cixi
-            return 'svg/' + $scope.svgid + '.svg';
+        $scope.svgautosize = function svgautosize(){
+
+            rowWidth = $('div#sidebar').width();
+            rowHeight = $('div#sidebar').height();
+
+            documentHeight = $(document).height();
+            documentWidth = $(document).width();
+
+            viewContainerHeight = rowHeight;
+
+            viewContainerWidth = documentWidth - rowWidth;
+
+            var svgEle = document.getElementsByTagName('svg')[0];
+            svgEleWidth = svgEle.getAttribute('width');
+            svgEleHeight = svgEle.getAttribute('height');
+
+            $('#view-container').height(viewContainerHeight)
+
+
+            svgEle.setAttribute('height', viewContainerHeight);
+            svgEle.setAttribute('width', viewContainerWidth);
+
+            svgEle.addEventListener('mousedown',selectElement);
+            svgEle.addEventListener('mouseup',deselectElement);
+            svgEle.addEventListener('mousemove',moveElement);
+            svgEle.addEventListener('mousewheel',zoomViaMouseWheel);
+
         };
+        $scope.clickToAlert = function clickToAlert(){
+
+            var clickBinding = function clickBinding() { //给box_btn绑定一个鼠标点击的事件
+
+                if ($(this).attr('class') == '变电站'){
+                    var content = '<h1>'+$(this).attr('id') +'</h1>';
+                    $('#box').html(content) ;
+
+                }else if($(this).attr('class') == '变电站文字'){
+                    var content = '<h1>'+$(this).text() +'</h1>';
+                    $('#box').html(content) ;
+
+                }else{
+                    alert('error');
+                }
+
+
+                $.blockUI({ //当点击事件发生时调用弹出层
+                    message: $('#box'), //要弹出的元素box
+                    css: { //弹出元素的CSS属性
+                        top: '50%',
+                        left: '50%',
+                        textAlign: 'left',
+                        marginLeft: '-320px',
+                        marginTop: '-145px',
+                        width: '600px',
+                        background: 'none'
+                    }
+                });
+                $('.blockOverlay').attr('title', '单击关闭').click($.unblockUI); //遮罩层属性的设置以及当鼠标单击遮罩层可以关闭弹出层
+                $('.close').click($.unblockUI); //也可以自定义一个关闭按钮来关闭弹出层
+            }
+
+            $('.变电站').click(clickBinding);
+            $('.变电站文字').click(clickBinding);
+        };
+
+
+        $scope.svgdo = function () {
+            $scope.svgautosize();
+            $scope.clickToAlert();
+        }
+
     }
 );
-
